@@ -13,6 +13,7 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
 To get started with the model building process, you first need to get the data on your storage. 
 
 In order to get the data on the storage, perform the following steps in order
+
 1.Open the terminal
 
 2.Download https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
